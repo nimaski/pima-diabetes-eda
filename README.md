@@ -60,7 +60,7 @@ Click below to view the full Jupyter Notebook:
 ## 💡 Author
 
 **Nima Karimi**  
-🔗 [LinkedIn Profile](www.linkedin.com/in/nima-karimi-a84790357)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nima-karimi-a84790357/)  
 📧 nima.karimi.20@gmail.com  
 
 
