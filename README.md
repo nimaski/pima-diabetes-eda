@@ -35,7 +35,9 @@ This repository contains an exploratory data analysis (EDA) of the **Pima Indian
 ---
 
 ## 📁 Project Structure
-
+📦 pima-diabetes-eda
+┣ 📓 Pima Indians Diabetes Dataset.ipynb
+┣ 📄 README.md
 
 ---
 
